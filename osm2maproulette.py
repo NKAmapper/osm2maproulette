@@ -13,7 +13,7 @@ import urllib.request
 from xml.etree import ElementTree as ET
 
 
-version = "0.1.0"
+version = "0.2.0"
 
 
 
@@ -37,7 +37,7 @@ def create_osmchange_xml(feature, osm_id):
 
 	osm_id -= 1 
 	point = feature['geometry']['coordinates']
-	xml_element = ET.Element("node", id=str(osm_id), lat=str(point[0]), lon=str(point[1]))
+	xml_element = ET.Element("node", id=str(osm_id), lat=str(point[1]), lon=str(point[0]))
 	xml_action.append(xml_element)
 
 	for key, value in iter(feature['properties'].items()):
