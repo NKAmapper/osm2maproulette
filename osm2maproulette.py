@@ -13,7 +13,7 @@ import urllib.request
 from xml.etree import ElementTree as ET
 
 
-version = "0.2.0"
+version = "0.2.1"
 
 
 
@@ -35,7 +35,6 @@ def create_osmchange_xml(feature, osm_id):
 	xml_action = ET.Element("create")
 	xml_root.append(xml_action)
 
-	osm_id -= 1 
 	point = feature['geometry']['coordinates']
 	xml_element = ET.Element("node", id=str(osm_id), lat=str(point[1]), lon=str(point[0]))
 	xml_action.append(xml_element)
@@ -44,9 +43,10 @@ def create_osmchange_xml(feature, osm_id):
 		xml_element.append(ET.Element("tag", k=key, v=value))
 
 	osmchange = ET.tostring(xml_root, encoding="utf-8", method="xml", xml_declaration=True)  # Returns bytes
-#	osmchange = osmchange.replace(b">", b">\n")
+	osmchange = osmchange.replace(b">", b">\n").replace(b"\n\n", b"\n")  # Insert line breaks
 
 	return osmchange
+
 
 
 
@@ -68,13 +68,13 @@ def convert_element(feature, osm_id):
 			'meta': {
 				'version': 2,
 				'type': 2  # Change file type
+			},
+			'file': {
+				'type': 'xml',
+				'format': 'osc',
+				'encoding': 'base64',
+				'content': osmchange_base64
 			}
-		},
-		'file': {
-			'type': 'xml',
-			'format': 'osc',
-			'encoding': 'base64',
-			'content': osmchange_base64
 		}
 	}
 
@@ -106,7 +106,7 @@ if __name__ == '__main__':
 	out_filename = filename.replace(".geojson", "") + "_maproulette.geojson"
 	file = open(out_filename, "w")
 
-	osm_id = -1000
+	osm_id = -31171
 
 	for feature in osm_data['features']:
 		osm_id -= 1
