@@ -6,79 +6,18 @@
             "type": "Feature",
             "properties": {
                 "brand": "Elfag",
-                "email": "post@hafs-elektro.no",
+                "name": "Midt Telemark Elektro",
                 "craft": "electrician",
-                "website": "http://hafs-elektro.no/",
-                "ref:elfag": "4125",
-                "phone": "+47 57 78 89 00",
-                "name": "Elfag HAFS Elektro & Rør, avd. Solund",
-                "branch": "HAFS Elektro & Rør, avd. Solund"
+                "phone": "+47 35 10 24 00",
+                "ref:elfag": "5797",
+                "website": "https://www.mitek-as.no/",
+                "email": "post@mitek-as.no"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.87427076994,
-                    61.08368447853
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "website": "https://elektro.no/",
-                "brand": "Elfag",
-                "craft": "electrician",
-                "branch": "Elektro Ofoten",
-                "ref:elfag": "4545",
-                "phone": "+47 902 47 346",
-                "name": "Elfag Elektro Ofoten",
-                "email": "postofoten@elektro.no"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.45086396994,
-                    68.44797759709
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "website": "https://fkel.no/",
-                "brand": "Elfag",
-                "name": "Elfag Fosenkraft Elektro, avd. Bjugn",
-                "craft": "electrician",
-                "email": "fkel@fosenkraft.no",
-                "branch": "Fosenkraft Elektro, avd. Bjugn",
-                "phone": "+47 72 52 04 20",
-                "ref:elfag": "5746"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.80428306994,
-                    63.76201150065
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Elfag Foss Elektro",
-                "brand": "Elfag",
-                "branch": "Foss Elektro",
-                "email": "post@foss-elektro.no",
-                "website": "http://www.foss-elektro.no/",
-                "craft": "electrician",
-                "ref:elfag": "103",
-                "phone": "+47 35514500"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.63929566994,
-                    59.14259213000
+                    9.13231226994,
+                    59.40589515583
                 ]
             }
         },
@@ -86,28 +25,157 @@
             "type": "Feature",
             "properties": {
                 "brand": "Elfag",
-                "email": "firmapost@vesas.no",
                 "craft": "electrician",
-                "name": "Elfag Vestby Elektro-Service",
-                "branch": "Vestby Elektro-Service",
-                "phone": "+47 64983040",
-                "ref:elfag": "191",
-                "website": "http://www.vesas.no"
+                "email": "kjella@dyrhovd.no",
+                "name": "Dyrhovd Elektro",
+                "ref:elfag": "80",
+                "phone": "+47 32147878"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.74309146994,
-                    59.60766859885
+                    9.97469427599,
+                    59.94588030806
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Elfag Elektro Helgeland",
+                "ref:elfag": "174",
                 "brand": "Elfag",
-                "branch": "Elektro Helgeland",
+                "email": "elektriker@sandneselektriske.no",
+                "craft": "electrician",
+                "phone": "+47 51 68 57 00",
+                "website": "https://www.sandneselektriske.no/",
+                "name": "Sandnes Elektriske Forretning"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.73983086994,
+                    58.85549431064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "craft": "electrician",
+                "phone": "+47 32 16 04 88",
+                "name": "Vik Elektriske",
+                "ref:elfag": "5444",
+                "email": "rune@vikelektriske.as",
+                "website": "https://vikelektriske.no/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.28457956994,
+                    60.08422876382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "phone": "+47 739 24 400",
+                "craft": "electrician",
+                "ref:elfag": "68",
+                "website": "http://argon.no/privat/",
+                "name": "Argon Elektro",
+                "email": "kundeservice@argon.no"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.46709386994,
+                    63.42001400102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "craft": "electrician",
+                "email": "tormod@kvamelektro.no",
+                "ref:elfag": "144",
+                "phone": "+47 56550000",
+                "name": "Kvam Elektro"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.20518936994,
+                    60.38790037744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "phone": "+47 31 29 07 99",
+                "craft": "electrician",
+                "name": "Askestad-Aas Elektro",
+                "website": "https://www.askestad-aas.no/",
+                "email": "firmapost@askestad-aas.no",
+                "ref:elfag": "73"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.34836476994,
+                    59.74039986131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "email": "post@lienelektro.no",
+                "craft": "electrician",
+                "ref:elfag": "6396",
+                "website": "https://lienelektro.no/",
+                "name": "Lien Elektro",
+                "phone": "+47 958 04 358"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.35461506994,
+                    59.41852895226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "website": "https://www.bakkenelektro.no/",
+                "email": "arnfinn@bakkenelektro.no",
+                "craft": "electrician",
+                "phone": "+47 480 60 270",
+                "ref:elfag": "6395",
+                "name": "Bakken Elektro"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.72819486994,
+                    63.59289435032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Elektro Helgeland",
+                "brand": "Elfag",
                 "craft": "electrician",
                 "ref:elfag": "3485",
                 "email": "per.asle.pedersen@elektro.no",
@@ -125,156 +193,18 @@
             "type": "Feature",
             "properties": {
                 "brand": "Elfag",
+                "phone": "+47 57667900",
                 "craft": "electrician",
-                "website": "https://elektor.no/",
-                "email": "firmapost@elektor.no",
-                "phone": "+47 62 58 21 00",
-                "ref:elfag": "6289",
-                "branch": "Elektor Installasjon",
-                "name": "Elfag Elektor Installasjon"
+                "ref:elfag": "59",
+                "email": "post@2tal-elektro.no",
+                "website": "http://2tal-elektro.no/",
+                "name": "2tal Elektro"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.19728896994,
-                    60.72158508221
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "branch": "Gulbrandsen & Olimb",
-                "craft": "electrician",
-                "website": "https://gulbrandsen-olimb.no/",
-                "ref:elfag": "114",
-                "phone": "+47 22803750",
-                "name": "Elfag Gulbrandsen & Olimb",
-                "email": "jan@g-o.no"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.84693336994,
-                    59.91540971173
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "phone": "+47 63922050",
-                "name": "Elfag Dal Elektriske",
-                "email": "jas@dal-el.no",
-                "ref:elfag": "79",
-                "craft": "electrician",
-                "branch": "Dal Elektriske"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.20847516994,
-                    60.24974571677
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "branch": "Fetsund Elektro",
-                "ref:elfag": "99",
-                "phone": "+47 63 88 77 20",
-                "craft": "electrician",
-                "email": "knut.burhol@fetsundelektro.no",
-                "name": "Elfag Fetsund Elektro"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.18881346994,
-                    59.93307260672
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "email": "installasjon@vokks.no",
-                "brand": "Elfag",
-                "phone": "+47 61 11 27 70",
-                "craft": "electrician",
-                "branch": "Vokks Installasjon",
-                "name": "Elfag Vokks Installasjon",
-                "ref:elfag": "5600",
-                "website": "https://installasjon.vokks.no/"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.06981556994,
-                    60.83463854988
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "email": "post@reidartonnessen.no",
-                "branch": "Reidar Tønnessen",
-                "phone": "+47 37270161",
-                "craft": "electrician",
-                "name": "Elfag Reidar Tønnessen",
-                "ref:elfag": "172"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.37706806994,
-                    58.24847388034
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "phone": "+47 31 29 07 99",
-                "brand": "Elfag",
-                "branch": "Askestad-Aas Elektro",
-                "name": "Elfag Askestad-Aas Elektro",
-                "craft": "electrician",
-                "website": "https://www.askestad-aas.no/",
-                "email": "firmapost@askestad-aas.no",
-                "ref:elfag": "73"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.34836476994,
-                    59.74039986131
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "branch": "Elektro-Sivert Installasjon",
-                "name": "Elfag Elektro-Sivert Installasjon",
-                "craft": "electrician",
-                "email": "firmapost@elektro-sivert.no",
-                "website": "https://elektro-sivert.no/",
-                "ref:elfag": "6400",
-                "phone": "+47 23 34 45 56"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.90493036994,
-                    59.96262809834
+                    7.50154986994,
+                    61.10070227365
                 ]
             }
         },
@@ -283,485 +213,9 @@
             "properties": {
                 "brand": "Elfag",
                 "craft": "electrician",
-                "branch": "Hemnes El-installasjon",
-                "phone": "+47 90914240",
-                "website": "http://www.hemnesel.no/",
-                "ref:elfag": "117",
-                "email": "jarle@hemnesel.no",
-                "name": "Elfag Hemnes El-installasjon"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.46497746994,
-                    59.72177116658
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "website": "https://www.holen-installasjon.no/",
-                "ref:elfag": "6392",
-                "craft": "electrician",
-                "name": "Elfag Holen Installasjon",
-                "email": "post@holen-installasjon.no",
-                "branch": "Holen Installasjon",
-                "phone": "+47 57 67 75 00"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.11855276994,
-                    61.23323903560
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "phone": "+47 75550500",
-                "brand": "Elfag",
-                "email": "post@nordkontakt.no",
-                "website": "https://nordkontakt.no/om-nordkontakt/avdelinger/installasjon/",
-                "craft": "electrician",
-                "name": "Elfag Nordkontakt",
-                "branch": "Nordkontakt",
-                "ref:elfag": "205"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.39948296994,
-                    67.29831244608
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "branch": "Teca, avd Kvinnherad",
-                "craft": "electrician",
-                "ref:elfag": "5022",
-                "phone": "+47 53 40 99 00",
-                "website": "http://www.teca.no/",
-                "email": "tore.eikeland@teca.no",
-                "name": "Elfag Teca, avd Kvinnherad"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.75766996994,
-                    59.86218002682
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "craft": "electrician",
-                "name": "Elfag Forenede Montører Notodden",
-                "ref:elfag": "102",
-                "branch": "Forenede Montører Notodden",
-                "email": "firmapost@fmnotodden.no",
-                "phone": "+47 35 02 55 00",
-                "website": "http://fmnotodden.no/"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.22476956994,
-                    59.56645961050
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "website": "https://simex-elektro.no/",
-                "brand": "Elfag",
-                "ref:elfag": "6398",
-                "craft": "electrician",
-                "branch": "Simex Elektro",
-                "name": "Elfag Simex Elektro",
-                "email": "bf@simex.no",
-                "phone": "+47 51 57 86 00"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.70703536994,
-                    58.90250339745
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:elfag": "174",
-                "brand": "Elfag",
-                "branch": "Sandnes Elektriske Forretning",
-                "email": "elektriker@sandneselektriske.no",
-                "website": "https://www.sandneselektriske.no/",
-                "phone": "+47 51 68 57 00",
-                "craft": "electrician",
-                "name": "Elfag Sandnes Elektriske Forretning"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.73983086994,
-                    58.85549431064
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "branch": "NBN Elektro",
-                "name": "Elfag NBN Elektro",
-                "brand": "Elfag",
-                "phone": "+47 57752800",
-                "craft": "electrician",
-                "ref:elfag": "158",
-                "email": "anders.nodseth@incgruppen.no"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.04234016994,
-                    61.60033222997
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "email": "post@htlelektro.no",
-                "brand": "Elfag",
-                "name": "Elfag HTL Electric Group",
-                "branch": "HTL Electric Group",
-                "craft": "electrician",
-                "phone": "+47 712 66 600;+47 715 17 000",
-                "ref:elfag": "3598",
-                "website": "https://www.htlelektro.no/"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.15027696994,
-                    62.85387616652
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "ref:elfag": "76",
-                "phone": "+47 47 47 81 81",
-                "branch": "Ballangen Energi",
-                "craft": "electrician",
-                "name": "Elfag Ballangen Energi",
-                "email": "post@ballangen-energi.no"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.78893266994,
-                    68.33039073291
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "name": "Elfag MerElektro",
-                "branch": "MerElektro",
-                "craft": "electrician",
-                "website": "https://www.merelektro.no",
-                "email": "post@merelektro.no",
-                "ref:elfag": "3136",
-                "phone": "+47 919 02 458"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.87792186994,
-                    59.93548620604
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "branch": "Teca, avd Bømlo",
-                "craft": "electrician",
-                "name": "Elfag Teca, avd Bømlo",
-                "website": "http://www.teca.no/",
-                "email": "roger.kallevag@teca.no",
-                "phone": "+47 990 22 889",
-                "ref:elfag": "3259"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.17878216994,
-                    59.79449074599
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "branch": "Leithe & Christiansen",
-                "brand": "Elfag",
-                "phone": "+47 23 05 14 70;+47 932 37 650",
-                "website": "https://lc.no/",
-                "craft": "electrician",
-                "ref:elfag": "147",
-                "email": "post@lc.no",
-                "name": "Elfag Leithe & Christiansen"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.82500256994,
-                    59.91320751235
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:elfag": "63",
-                "website": "http://www.aasebo-ulvestad.no/",
-                "email": "post@aasebo-ulvestad.no",
-                "brand": "Elfag",
-                "craft": "electrician",
-                "branch": "Aasebø & Ulvestad Installasjon",
-                "phone": "+47 700 78 380",
-                "name": "Elfag Aasebø & Ulvestad Installasjon"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    6.07374846994,
-                    62.14510127254
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "email": "post@stromsborg.no",
-                "brand": "Elfag",
-                "name": "Elfag Strømsborg Elektro",
-                "phone": "+47 64 92 63 00",
-                "branch": "Strømsborg Elektro",
-                "craft": "electrician",
-                "ref:elfag": "181",
-                "website": "https://stromsborg.no/"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.14302806994,
-                    59.76343955479
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "branch": "Ørnulf Wiig Installasjon",
-                "email": "service@wiig.no",
-                "craft": "electrician",
-                "phone": "+47 67572020",
-                "name": "Elfag Ørnulf Wiig Installasjon",
-                "ref:elfag": "193"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.50159456994,
-                    59.88700051978
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "craft": "electrician",
-                "name": "Elfag Jatec",
-                "email": "haraldseid@jatec.no",
-                "ref:elfag": "128",
-                "phone": "+47 52703030",
-                "branch": "Jatec"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.27495596994,
-                    59.40704495550
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "ref:elfag": "6391",
-                "craft": "electrician",
-                "website": "https://www.hallanelektro.no/",
-                "phone": "+47 72 45 46 00",
-                "branch": "Hallan Elektro",
-                "name": "Elfag Hallan Elektro",
-                "email": "post@hallan-elektro.no"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.09019876994,
-                    63.28881463945
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "ref:elfag": "154",
-                "name": "Elfag Meløy Elektro",
-                "email": "roger.stormo@meloyelektro.no",
-                "craft": "electrician",
-                "branch": "Meløy Elektro",
-                "phone": "+47 757 20 200",
-                "website": "https://www.elektro.no/vare-selskap/elektro-meloy.html"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.70836836994,
-                    66.86774477603
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "phone": "+47 55 57 79 50",
-                "brand": "Elfag",
-                "ref:elfag": "198",
-                "craft": "electrician",
-                "website": "http://www.star-elektro.no/",
-                "branch": "Star Elektro",
-                "name": "Elfag Star Elektro",
-                "email": "firma@star-elektro.no"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.35987416994,
-                    60.36041068527
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "website": "http://www.gamlebyenelektriske.no/",
-                "brand": "Elfag",
-                "branch": "Gamlebyen Elektriske",
-                "name": "Elfag Gamlebyen Elektriske",
-                "craft": "electrician",
-                "email": "post@gamlebyenelektriske.no",
-                "ref:elfag": "108",
-                "phone": "+47 69321250"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.95572146994,
-                    59.20320601294
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "email": "firmapost@vesas.no",
-                "craft": "electrician",
-                "name": "Elfag Vestby Elektro-service avd. Østfold",
-                "phone": "+47 64983040",
-                "ref:elfag": "192",
-                "branch": "Vestby Elektro-service avd. Østfold"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.68250896994,
-                    59.41607735295
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "name": "Elfag Hurum Elektro",
-                "ref:elfag": "123",
-                "email": "post@hurumel.no",
-                "craft": "electrician",
-                "branch": "Hurum Elektro",
-                "website": "http://hurumel.no/",
-                "phone": "+47 32798910"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.55880146994,
-                    59.54174761748
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "craft": "electrician",
-                "branch": "Barkedalen Elektriske",
-                "name": "Elfag Barkedalen Elektriske",
-                "ref:elfag": "6402",
-                "email": "andreas@barkedalen.no",
-                "website": "https://barkedalen.no/elektriske/",
-                "phone": "+47 976 98 091"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.93901216994,
-                    59.18588591782
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "branch": "Teca",
                 "email": "post@teca.no",
-                "craft": "electrician",
                 "phone": "+47 53 40 99 00",
-                "name": "Elfag Teca",
+                "name": "Teca",
                 "website": "http://www.teca.no/",
                 "ref:elfag": "83"
             },
@@ -777,553 +231,8 @@
             "type": "Feature",
             "properties": {
                 "brand": "Elfag",
-                "ref:elfag": "199",
                 "craft": "electrician",
-                "phone": "+47 75503700",
-                "email": "kundeservice@elektro.no",
-                "name": "Elfag Elektro Bodø",
-                "website": "https://www.elektro.no/",
-                "branch": "Elektro Bodø"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.40763496994,
-                    67.29165974809
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "branch": "Bjørbekk Elektro",
-                "brand": "Elfag",
-                "name": "Elfag Bjørbekk Elektro",
-                "ref:elfag": "78",
-                "craft": "electrician",
-                "phone": "+47 99 03 98 02",
-                "email": "post@bjorbekkelektro.no"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.60933086994,
-                    59.19729351461
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "email": "post@lienelektro.no",
-                "craft": "electrician",
-                "ref:elfag": "6396",
-                "website": "https://lienelektro.no/",
-                "branch": "Lien Elektro",
-                "name": "Elfag Lien Elektro",
-                "phone": "+47 958 04 358"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.35461506994,
-                    59.41852895226
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "branch": "A-elektriker",
-                "craft": "electrician",
-                "ref:elfag": "4033",
-                "phone": "+47 742 700 74",
-                "email": "post@aelektriker.no",
-                "name": "Elfag A-elektriker"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.48871476994,
-                    64.46964259202
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "craft": "electrician",
-                "branch": "Elektroservice Hallingdal Inst. Gol",
-                "website": "http://www.ehi.no/",
-                "phone": "+47 32 07 99 50",
-                "name": "Elfag Elektroservice Hallingdal Inst. Gol",
-                "ref:elfag": "91",
-                "email": "baard@ehi.no"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.93172826994,
-                    60.69624028946
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "website": "https://www.elektro.no/vare-selskap/lofoten-elektro.html",
-                "brand": "Elfag",
-                "craft": "electrician",
-                "phone": "+47 760 66 630",
-                "name": "Elfag Lofoten Elektro avd. Leknes",
-                "email": "post@lofotenelektro.no",
-                "ref:elfag": "207",
-                "branch": "Lofoten Elektro avd. Leknes"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.61645296994,
-                    68.14430058955
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "craft": "electrician",
-                "ref:elfag": "129",
-                "phone": "+47 901 93 299",
-                "name": "Elfag Jens B Lunde Elektro",
-                "email": "90193299@mobilpost.com",
-                "branch": "Jens B Lunde Elektro"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.71037066994,
-                    58.82010792056
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "ref:elfag": "4163",
-                "craft": "electrician",
-                "branch": "Haugen Elektro",
-                "name": "Elfag Haugen Elektro",
-                "phone": "+47 954 55 550",
-                "email": "post@haugen-elektro.no"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.27179666994,
-                    63.25395214965
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "ref:elfag": "211",
-                "phone": "+47 66776300",
-                "craft": "electrician",
-                "branch": "Ansnes Elektro",
-                "name": "Elfag Ansnes Elektro",
-                "website": "https://ansneselektro.no/om-oss/",
-                "email": "firmapost.elektro@ansnes.no"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.47816086994,
-                    59.85649322843
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "craft": "electrician",
-                "branch": "Lofoten Elektro",
-                "name": "Elfag Lofoten Elektro",
-                "website": "https://www.lofotenelektro.no/",
-                "ref:elfag": "206",
-                "email": "post@lofotenelektro.no",
-                "phone": "+47 76066630"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.53419546994,
-                    68.23197846287
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "phone": "+47 32 16 04 88",
-                "craft": "electrician",
-                "branch": "Vik Elektriske",
-                "name": "Elfag Vik Elektriske",
-                "ref:elfag": "5444",
-                "website": "https://vikelektriske.no/",
-                "email": "rune@vikelektriske.as"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.28457956994,
-                    60.08422876382
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "email": "firmapost@nordvest-elektro.no",
-                "ref:elfag": "3108",
-                "brand": "Elfag",
-                "phone": "+47 71 64 79 60",
-                "name": "Elfag Nordvest Elektro",
-                "craft": "electrician",
-                "branch": "Nordvest Elektro"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.70910186994,
-                    63.40381550577
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "website": "https://fkel.no/",
-                "brand": "Elfag",
-                "craft": "electrician",
-                "email": "fkel@fosenkraft.no",
-                "phone": "+47 72 52 04 20",
-                "branch": "Fosenkraft Elektro, avd. Brekstad",
-                "ref:elfag": "5754",
-                "name": "Elfag Fosenkraft Elektro, avd. Brekstad"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.66221566994,
-                    63.69064202162
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "email": "post@sjovoldelektro.no",
-                "name": "Elfag Sjøvold Elektro",
-                "craft": "electrician",
-                "branch": "Sjøvold Elektro",
-                "ref:elfag": "82",
-                "phone": "+47 56 33 50 66"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.00112286994,
-                    60.40519707251
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "phone": "+47 57752800",
-                "craft": "electrician",
-                "ref:elfag": "159",
-                "email": "anders.nodseth@incgruppen.no",
-                "name": "Elfag NBN Elektro avd. Bremanger",
-                "branch": "NBN Elektro avd. Bremanger"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.96306519116,
-                    61.84084411719
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "phone": "+47 91741489",
-                "brand": "Elfag",
-                "ref:elfag": "120",
-                "email": "installasjon@holmsens.no",
-                "name": "Elfag Holmsens Elektro",
-                "craft": "electrician",
-                "branch": "Holmsens Elektro"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.92365576994,
-                    59.94697950278
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "branch": "Kjeldal Elektro",
-                "craft": "electrician",
-                "ref:elfag": "4066",
-                "phone": "+47 35 96 75 50",
-                "email": "post@kjeldalelektro.no",
-                "website": "http://kjeldalelektro.no/",
-                "name": "Elfag Kjeldal Elektro"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.71751316994,
-                    59.02308836359
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "name": "Elfag Midt Telemark Elektro",
-                "phone": "+47 35 10 24 00",
-                "craft": "electrician",
-                "branch": "Midt Telemark Elektro",
-                "ref:elfag": "5797",
-                "website": "https://www.mitek-as.no/",
-                "email": "post@mitek-as.no"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.13231226994,
-                    59.40589515583
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "phone": "+47 32109970",
-                "name": "Elfag Lys og Kraft Installasjon",
-                "brand": "Elfag",
-                "craft": "electrician",
-                "email": "installasjon@lysogkraft.no",
-                "ref:elfag": "149",
-                "branch": "Lys og Kraft Installasjon"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.26792546994,
-                    60.17666093755
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "ref:elfag": "142",
-                "craft": "electrician",
-                "email": "post@kolsen.as",
-                "name": "Elfag Kolbjørn Olsen",
-                "phone": "+47 77830300",
-                "branch": "Kolbjørn Olsen"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.59848646260,
-                    69.09573102365
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "craft": "electrician",
-                "ref:elfag": "6385",
-                "name": "Elfag Flyt Elektro",
-                "email": "bestillinger@flytelektro.no",
-                "branch": "Flyt Elektro",
-                "phone": "+47 905 04 076"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.78702806994,
-                    59.91172661277
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:elfag": "152",
-                "brand": "Elfag",
-                "phone": "+47 74124600",
-                "name": "Elfag Madsen Elektro",
-                "craft": "electrician",
-                "branch": "Madsen Elektro",
-                "email": "jon.bjarne@madsenelektro.no"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.29031796994,
-                    63.87454726755
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "phone": "+47 45 49 19 11",
-                "name": "Elfag Hegna Elektro",
-                "craft": "electrician",
-                "branch": "Hegna Elektro",
-                "ref:elfag": "6315"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.81527916994,
-                    59.90667911420
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "phone": "+47 32 09 59 60",
-                "brand": "Elfag",
-                "craft": "electrician",
-                "website": "http://www.ehi.no/",
-                "email": "tor-ove@ehi.no",
-                "name": "Elfag Elektroservice Hallingdal Inst. Geilo",
-                "branch": "Elektroservice Hallingdal Inst. Geilo",
-                "ref:elfag": "90"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.21744036994,
-                    60.52569193815
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "email": "post@elektropro.no",
-                "brand": "Elfag",
-                "name": "Elfag ElektroPro",
-                "craft": "electrician",
-                "branch": "ElektroPro",
-                "website": "https://www.elektropro.no/",
-                "phone": "+47 916 48 667;+47 966 27 854",
-                "ref:elfag": "5884"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.64731866994,
-                    58.88294630294
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "branch": "Dyrud Elektro",
-                "email": "morten@dyrud.no",
-                "craft": "electrician",
-                "name": "Elfag Dyrud Elektro",
-                "ref:elfag": "81",
-                "phone": "+47 35058080"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.59504476994,
-                    59.47319253684
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "phone": "+47 69 18 19 06",
-                "brand": "Elfag",
-                "name": "Elfag O. Hansens Eftf.",
-                "craft": "electrician",
-                "branch": "O. Hansens Eftf.",
-                "website": "https://www.ohansen.no/",
-                "email": "mail@ohansen.no",
-                "ref:elfag": "6404"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.38902626994,
-                    59.12421673517
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "phone": "+47 55316050",
-                "brand": "Elfag",
-                "name": "Elfag Urheims Elektrokompani",
-                "craft": "electrician",
-                "email": "jt.urheim@urheim.no",
-                "ref:elfag": "190",
-                "branch": "Urheims Elektrokompani"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.31994966994,
-                    60.39309787596
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "craft": "electrician",
-                "branch": "Richard Andersen Elektro",
-                "name": "Elfag Richard Andersen Elektro",
+                "name": "Richard Andersen Elektro",
                 "email": "post@dinelektriker.com",
                 "ref:elfag": "208",
                 "phone": "+47 37015800"
@@ -1339,20 +248,19 @@
         {
             "type": "Feature",
             "properties": {
+                "website": "https://fkel.no/",
                 "brand": "Elfag",
+                "name": "Fosenkraft Elektro, avd. Bjugn",
                 "craft": "electrician",
-                "phone": "+47 35 54 16 25",
-                "name": "Elfag Elektro Team - Skien",
-                "email": "post@elektroteam.net",
-                "branch": "Elektro Team - Skien",
-                "website": "https://elektroteam.net/",
-                "ref:elfag": "4478"
+                "email": "fkel@fosenkraft.no",
+                "phone": "+47 72 52 04 20",
+                "ref:elfag": "5746"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.60624356994,
-                    59.21868180858
+                    9.80428306994,
+                    63.76201150065
                 ]
             }
         },
@@ -1360,76 +268,17 @@
             "type": "Feature",
             "properties": {
                 "brand": "Elfag",
-                "email": "jon.erik@slevikelektriske.no",
-                "ref:elfag": "177",
+                "name": "Algrøy Elektro",
+                "ref:elfag": "65",
+                "phone": "+47 56336240",
                 "craft": "electrician",
-                "website": "https://slevikelektriske.no/",
-                "name": "Elfag Slevik Elektriske",
-                "branch": "Slevik Elektriske"
+                "email": "arild@algroyelektro.no"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.91071586994,
-                    59.22930530559
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Elfag Stomas",
-                "brand": "Elfag",
-                "email": "roald.nordtveit@stomas.no",
-                "craft": "electrician",
-                "phone": "+47 53402340",
-                "website": "https://stomas.no/",
-                "ref:elfag": "180",
-                "branch": "Stomas"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.49973016994,
-                    59.78155604966
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "branch": "Øvreberg Installasjonsforretning",
-                "brand": "Elfag",
-                "phone": "+47 57872900",
-                "craft": "electrician",
-                "name": "Elfag Øvreberg Installasjonsforretning",
-                "email": "post@ovreberg.no",
-                "ref:elfag": "194"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    6.72259506994,
-                    61.90338264249
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "phone": "+47 32147878;+47 99207400",
-                "brand": "Elfag",
-                "craft": "electrician",
-                "name": "Elfag Dyrhovd Elektro avd. Krøderen",
-                "branch": "Dyrhovd Elektro avd. Krøderen",
-                "email": "post@dyrhovd.no",
-                "ref:elfag": "209"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.78237991632,
-                    60.12542062617
+                    5.08413827976,
+                    60.29787646173
                 ]
             }
         },
@@ -1437,18 +286,18 @@
             "type": "Feature",
             "properties": {
                 "brand": "Elfag",
+                "ref:elfag": "6391",
                 "craft": "electrician",
-                "ref:elfag": "157",
-                "phone": "+47 56529600",
-                "email": "oskjoldli@molster.no",
-                "name": "Elfag Mølster Installasjon",
-                "branch": "Mølster Installasjon"
+                "website": "https://www.hallanelektro.no/",
+                "phone": "+47 72 45 46 00",
+                "name": "Hallan Elektro",
+                "email": "post@hallan-elektro.no"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    6.44435596994,
-                    60.65531340115
+                    9.09019876994,
+                    63.28881463945
                 ]
             }
         },
@@ -1456,39 +305,17 @@
             "type": "Feature",
             "properties": {
                 "brand": "Elfag",
-                "website": "https://www.bakkenelektro.no/",
-                "email": "arnfinn@bakkenelektro.no",
+                "email": "morten@dyrud.no",
                 "craft": "electrician",
-                "ref:elfag": "6395",
-                "phone": "+47 480 60 270",
-                "branch": "Bakken Elektro",
-                "name": "Elfag Bakken Elektro"
+                "name": "Dyrud Elektro",
+                "phone": "+47 35058080",
+                "ref:elfag": "81"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.72819486994,
-                    63.59289435032
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "phone": "+47 22 33 06 80",
-                "brand": "Elfag",
-                "craft": "electrician",
-                "email": "post@danorelektro.no",
-                "website": "https://danorelektro.no",
-                "ref:elfag": "6388",
-                "branch": "Danor Elektro",
-                "name": "Elfag Danor Elektro"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.74529206994,
-                    59.90948451341
+                    8.59504476994,
+                    59.47319253684
                 ]
             }
         },
@@ -1496,19 +323,74 @@
             "type": "Feature",
             "properties": {
                 "brand": "Elfag",
-                "branch": "Elektroservice Hallingdal Inst. Ål",
+                "ref:elfag": "75",
                 "craft": "electrician",
-                "website": "http://www.ehi.no/",
-                "email": "kjell@ehi.no",
-                "ref:elfag": "92",
-                "name": "Elfag Elektroservice Hallingdal Inst. Ål",
-                "phone": "+47 32 08 61 70"
+                "website": "http://bmi.no/",
+                "email": "firmapost@bmi.no",
+                "phone": "+47 53650000",
+                "name": "B Mikkelsen"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.59680716994,
-                    60.64753560337
+                    6.54787159790,
+                    60.06713189351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "email": "post@stromsborg.no",
+                "brand": "Elfag",
+                "name": "Strømsborg Elektro",
+                "phone": "+47 64 92 63 00",
+                "craft": "electrician",
+                "ref:elfag": "181",
+                "website": "https://stromsborg.no/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.14302806994,
+                    59.76343955479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lys og Kraft Installasjon",
+                "phone": "+47 32109970",
+                "brand": "Elfag",
+                "craft": "electrician",
+                "email": "installasjon@lysogkraft.no",
+                "ref:elfag": "149"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.26792546994,
+                    60.17666093755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "website": "https://shelektro.no/",
+                "brand": "Elfag",
+                "email": "post@shelektro.no",
+                "craft": "electrician",
+                "ref:elfag": "5572",
+                "name": "SH Elektro",
+                "phone": "+47 948 88 182"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.24771216994,
+                    58.20168179337
                 ]
             }
         },
@@ -1516,38 +398,54 @@
             "type": "Feature",
             "properties": {
                 "brand": "Elfag",
-                "ref:elfag": "144",
-                "email": "tormod@kvamelektro.no",
+                "name": "NBN Elektro",
                 "craft": "electrician",
-                "branch": "Kvam Elektro",
-                "phone": "+47 56550000",
-                "name": "Elfag Kvam Elektro"
+                "phone": "+47 57752800",
+                "ref:elfag": "158",
+                "email": "anders.nodseth@incgruppen.no"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    6.20518936994,
-                    60.38790037744
+                    5.04234016994,
+                    61.60033222997
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "website": "http://holthelektro.no/",
-                "name": "Elfag Holth Elektro",
                 "brand": "Elfag",
-                "phone": "+47 21 44 97 70",
-                "ref:elfag": "5705",
-                "craft": "electrician",
-                "email": "post@holthelektro.no",
-                "branch": "Holth Elektro"
+                "phone": "+47 91741489",
+                "email": "installasjon@holmsens.no",
+                "ref:elfag": "120",
+                "name": "Holmsens Elektro",
+                "craft": "electrician"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.89053706994,
-                    59.96529609758
+                    10.92365576994,
+                    59.94697950278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "email": "firmapost@elumni.no",
+                "website": "http://www.elumni.no/",
+                "craft": "electrician",
+                "phone": "+47 77 07 99 70;+47 91 78 19 42",
+                "name": "Elumni Elektro",
+                "ref:elfag": "94"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.54288846994,
+                    68.79205659210
                 ]
             }
         },
@@ -1556,26 +454,81 @@
             "properties": {
                 "brand": "Elfag",
                 "craft": "electrician",
-                "name": "Elfag Rennebu Elektro",
-                "branch": "Rennebu Elektro",
-                "ref:elfag": "203",
-                "email": "post@rennebuelektro.no",
-                "phone": "+47 99 64 28 97;+47 48 11 55 15"
+                "name": "Forenede Montører Notodden",
+                "ref:elfag": "102",
+                "email": "firmapost@fmnotodden.no",
+                "phone": "+47 35 02 55 00",
+                "website": "http://fmnotodden.no/"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.01423086994,
-                    62.83326327253
+                    9.22476956994,
+                    59.56645961050
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Elfag RGR Elektro",
                 "brand": "Elfag",
-                "branch": "RGR Elektro",
+                "craft": "electrician",
+                "name": "Elektro-Sivert Installasjon",
+                "email": "firmapost@elektro-sivert.no",
+                "website": "https://elektro-sivert.no/",
+                "phone": "+47 23 34 45 56",
+                "ref:elfag": "6400"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.90493036994,
+                    59.96262809834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "ref:elfag": "211",
+                "craft": "electrician",
+                "phone": "+47 66776300",
+                "name": "Ansnes Elektro",
+                "website": "https://ansneselektro.no/om-oss/",
+                "email": "firmapost.elektro@ansnes.no"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.47816086994,
+                    59.85649322843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "ref:elfag": "4163",
+                "craft": "electrician",
+                "name": "Haugen Elektro",
+                "phone": "+47 954 55 550",
+                "email": "post@haugen-elektro.no"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.27179666994,
+                    63.25395214965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RGR Elektro",
+                "brand": "Elfag",
                 "ref:elfag": "4490",
                 "craft": "electrician",
                 "email": "firmapost@rgrelektro.no",
@@ -1593,14 +546,348 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Elfag Eiklid & Ekdahl Elektro",
                 "brand": "Elfag",
+                "phone": "+47 22 33 06 80",
+                "craft": "electrician",
+                "email": "post@danorelektro.no",
+                "ref:elfag": "6388",
+                "website": "https://danorelektro.no",
+                "name": "Danor Elektro"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.74529206994,
+                    59.90948451341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "email": "installasjon@vokks.no",
+                "phone": "+47 61 11 27 70",
+                "craft": "electrician",
+                "name": "Vokks Installasjon",
+                "ref:elfag": "5600",
+                "website": "https://installasjon.vokks.no/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.06981556994,
+                    60.83463854988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "craft": "electrician",
+                "ref:elfag": "199",
+                "phone": "+47 75503700",
+                "email": "kundeservice@elektro.no",
+                "name": "Elektro Bodø",
+                "website": "https://www.elektro.no/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40763496994,
+                    67.29165974809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "phone": "+47 32147878;+47 99207400",
+                "brand": "Elfag",
+                "craft": "electrician",
+                "name": "Dyrhovd Elektro avd. Krøderen",
+                "email": "post@dyrhovd.no",
+                "ref:elfag": "209"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.78237991632,
+                    60.12542062617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "name": "Foss Elektro",
+                "email": "post@foss-elektro.no",
+                "craft": "electrician",
+                "website": "http://www.foss-elektro.no/",
+                "ref:elfag": "103",
+                "phone": "+47 35514500"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.63929566994,
+                    59.14259213000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "ref:elfag": "189",
+                "craft": "electrician",
+                "phone": "+47 67 87 69 00",
+                "name": "TT Elektro",
+                "website": "https://www.ttelektro.no/",
+                "email": "post@ttelektro.no"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.49890866994,
+                    59.94875860227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "name": "Hurum Elektro",
+                "email": "post@hurumel.no",
+                "ref:elfag": "123",
+                "craft": "electrician",
+                "phone": "+47 32798910",
+                "website": "http://hurumel.no/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.55880146994,
+                    59.54174761748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "phone": "+47 69 18 19 06",
+                "brand": "Elfag",
+                "craft": "electrician",
+                "name": "O. Hansens Eftf.",
+                "website": "https://www.ohansen.no/",
+                "email": "mail@ohansen.no",
+                "ref:elfag": "6404"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.38902626994,
+                    59.12421673517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "email": "post@hafs-elektro.no",
+                "craft": "electrician",
+                "website": "http://hafs-elektro.no/",
+                "name": "HAFS Elektro & Rør, avd. Solund",
+                "phone": "+47 57 78 89 00",
+                "ref:elfag": "4125"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.87427076994,
+                    61.08368447853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "ref:elfag": "6383",
+                "name": "DE Elektro",
+                "email": "post@de-elektro.no / prosjekt@de-elektro.no",
+                "craft": "electrician",
+                "website": "https://de-elektro.no/",
+                "phone": "+47 94 84 13 00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.80688297970,
+                    59.89031302013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "craft": "electrician",
+                "email": "service@wiig.no",
+                "phone": "+47 67572020",
+                "name": "Ørnulf Wiig Installasjon",
+                "ref:elfag": "193"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.50159456994,
+                    59.88700051978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "phone": "+47 32 09 59 60",
+                "craft": "electrician",
+                "email": "tor-ove@ehi.no",
+                "website": "http://www.ehi.no/",
+                "name": "Elektroservice Hallingdal Inst. Geilo",
+                "ref:elfag": "90"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.21744036994,
+                    60.52569193815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "craft": "electrician",
+                "ref:elfag": "6026",
+                "name": "Lofoten Elektro, avd. Ramberg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.22844736994,
+                    68.08943580623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "phone": "+47 23 05 14 70;+47 932 37 650",
+                "website": "https://lc.no/",
+                "craft": "electrician",
+                "ref:elfag": "147",
+                "email": "post@lc.no",
+                "name": "Leithe & Christiansen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.82500256994,
+                    59.91320751235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "craft": "electrician",
+                "phone": "+47 35 96 75 50",
+                "ref:elfag": "4066",
+                "email": "post@kjeldalelektro.no",
+                "name": "Kjeldal Elektro",
+                "website": "http://kjeldalelektro.no/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.71751316994,
+                    59.02308836359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "craft": "electrician",
+                "phone": "+47 66987030",
+                "email": "firmapost@askerel.no",
+                "name": "Asker Elektriske",
+                "ref:elfag": "72"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.41464606994,
+                    59.83029863585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "website": "https://simex-elektro.no/",
+                "craft": "electrician",
+                "ref:elfag": "6398",
+                "name": "Simex Elektro",
+                "email": "bf@simex.no",
+                "phone": "+47 51 57 86 00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.70703536994,
+                    58.90250339745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "email": "post@sjovoldelektro.no",
+                "craft": "electrician",
+                "name": "Sjøvold Elektro",
+                "ref:elfag": "82",
+                "phone": "+47 56 33 50 66"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.00112286994,
+                    60.40519707251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "name": "Eiklid & Ekdahl Elektro",
                 "website": "https://www.eee.no/",
                 "craft": "electrician",
-                "ref:elfag": "6296",
                 "email": "post@eee.no",
-                "phone": "+47 22 16 19 40",
-                "branch": "Eiklid & Ekdahl Elektro"
+                "ref:elfag": "6296",
+                "phone": "+47 22 16 19 40"
             },
             "geometry": {
                 "type": "Point",
@@ -1614,91 +901,328 @@
             "type": "Feature",
             "properties": {
                 "brand": "Elfag",
-                "branch": "Argon Elektro",
-                "phone": "+47 739 24 400",
-                "ref:elfag": "68",
+                "phone": "+47 75550500",
+                "email": "post@nordkontakt.no",
+                "website": "https://nordkontakt.no/om-nordkontakt/avdelinger/installasjon/",
                 "craft": "electrician",
-                "website": "http://argon.no/privat/",
-                "name": "Elfag Argon Elektro",
-                "email": "kundeservice@argon.no"
+                "name": "Nordkontakt",
+                "ref:elfag": "205"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.46709386994,
-                    63.42001400102
+                    14.39948296994,
+                    67.29831244608
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "website": "http://www.elumni.no/",
-                "email": "firmapost@elumni.no",
                 "brand": "Elfag",
-                "phone": "+47 77 07 99 70;+47 91 78 19 42",
+                "email": "post@reidartonnessen.no",
                 "craft": "electrician",
-                "branch": "Elumni Elektro",
-                "name": "Elfag Elumni Elektro",
-                "ref:elfag": "94"
+                "phone": "+47 37270161",
+                "name": "Reidar Tønnessen",
+                "ref:elfag": "172"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    16.54288846994,
-                    68.79205659210
+                    8.37706806994,
+                    58.24847388034
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "email": "firmapost@baerumelektriske.no",
                 "brand": "Elfag",
-                "name": "Elfag Bærum Elektriske",
-                "website": "http://baerumelektriske.no",
+                "website": "https://www.elektro.no/vare-selskap/lofoten-elektro.html",
                 "craft": "electrician",
-                "phone": "+47 67 58 15 55",
-                "ref:elfag": "2477",
-                "branch": "Bærum Elektriske"
+                "name": "Lofoten Elektro avd. Leknes",
+                "phone": "+47 760 66 630",
+                "email": "post@lofotenelektro.no",
+                "ref:elfag": "207"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.56422016994,
-                    59.90813541379
+                    13.61645296994,
+                    68.14430058955
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "branch": "Dyrhovd Elektro",
                 "brand": "Elfag",
                 "craft": "electrician",
-                "email": "kjella@dyrhovd.no",
-                "ref:elfag": "80",
-                "name": "Elfag Dyrhovd Elektro",
-                "phone": "+47 32147878"
+                "phone": "+47 56529600",
+                "ref:elfag": "157",
+                "email": "oskjoldli@molster.no",
+                "name": "Mølster Installasjon"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.97469427599,
-                    59.94588030806
+                    6.44435596994,
+                    60.65531340115
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "branch": "Sverresborg Elektro",
+                "brand": "Elfag",
+                "email": "jas@dal-el.no",
+                "name": "Dal Elektriske",
+                "phone": "+47 63922050",
+                "craft": "electrician",
+                "ref:elfag": "79"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.20847516994,
+                    60.24974571677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "craft": "electrician",
+                "name": "Barkedalen Elektriske",
+                "ref:elfag": "6402",
+                "email": "andreas@barkedalen.no",
+                "phone": "+47 976 98 091",
+                "website": "https://barkedalen.no/elektriske/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.93901216994,
+                    59.18588591782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "name": "Stomas",
+                "email": "roald.nordtveit@stomas.no",
+                "craft": "electrician",
+                "phone": "+47 53402340",
+                "ref:elfag": "180",
+                "website": "https://stomas.no/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.49973016994,
+                    59.78155604966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "website": "https://elektro.no/",
+                "brand": "Elfag",
+                "craft": "electrician",
+                "ref:elfag": "4545",
+                "phone": "+47 902 47 346",
+                "name": "Elektro Ofoten",
+                "email": "postofoten@elektro.no"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.45086396994,
+                    68.44797759709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "ref:elfag": "97",
+                "name": "Håvardstun Elektriske",
+                "craft": "electrician",
+                "email": "atle@havardstun.no",
+                "phone": "+47 55114750"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.25662616994,
+                    60.28627170637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "website": "http://www.gamlebyenelektriske.no/",
+                "craft": "electrician",
+                "name": "Gamlebyen Elektriske",
+                "email": "post@gamlebyenelektriske.no",
+                "phone": "+47 69321250",
+                "ref:elfag": "108"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.95572146994,
+                    59.20320601294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "email": "post@elektropro.no",
+                "brand": "Elfag",
+                "name": "ElektroPro",
+                "craft": "electrician",
+                "website": "https://www.elektropro.no/",
+                "phone": "+47 916 48 667;+47 966 27 854",
+                "ref:elfag": "5884"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.64731866994,
+                    58.88294630294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "ref:elfag": "143",
+                "craft": "electrician",
+                "name": "Kragerø Elektriske",
+                "website": "http://www.krageroelektriske.no",
+                "phone": "+47 35986560",
+                "email": "grunde@krageroelektriske.no"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.41171336994,
+                    58.87043710645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:elfag": "63",
+                "brand": "Elfag",
+                "email": "post@aasebo-ulvestad.no",
+                "website": "http://www.aasebo-ulvestad.no/",
+                "craft": "electrician",
+                "phone": "+47 700 78 380",
+                "name": "Aasebø & Ulvestad Installasjon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.07374846994,
+                    62.14510127254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:elfag": "152",
+                "brand": "Elfag",
+                "phone": "+47 74124600",
+                "craft": "electrician",
+                "name": "Madsen Elektro",
+                "email": "jon.bjarne@madsenelektro.no"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.29031796994,
+                    63.87454726755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "phone": "+47 913 49 199",
+                "brand": "Elfag",
+                "craft": "electrician",
+                "website": "https://krumsvikelektro.no/",
+                "name": "Krumsvik Elektro",
+                "ref:elfag": "4266",
+                "email": "post@krumsvikelektro.no"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.27322312247,
+                    59.44456276620
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "name": "MerElektro",
+                "craft": "electrician",
+                "email": "post@merelektro.no",
+                "website": "https://www.merelektro.no",
+                "phone": "+47 919 02 458",
+                "ref:elfag": "3136"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.87792186994,
+                    59.93548620604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "craft": "electrician",
+                "phone": "+47 57752800",
+                "email": "anders.nodseth@incgruppen.no",
+                "ref:elfag": "159",
+                "name": "NBN Elektro avd. Bremanger"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.96306519116,
+                    61.84084411719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "brand": "Elfag",
                 "ref:elfag": "6077",
                 "craft": "electrician",
                 "email": "post@se-elektro.no",
                 "phone": "+47 908 07 003",
-                "name": "Elfag Sverresborg Elektro"
+                "name": "Sverresborg Elektro"
             },
             "geometry": {
                 "type": "Point",
@@ -1711,12 +1235,342 @@
         {
             "type": "Feature",
             "properties": {
-                "email": "andreas.kahn@kahnelektro.no",
-                "ref:elfag": "4416",
                 "brand": "Elfag",
                 "craft": "electrician",
-                "name": "Elfag Kahn Elektro",
-                "branch": "Kahn Elektro",
+                "phone": "+47 53 40 99 00",
+                "ref:elfag": "5022",
+                "website": "http://www.teca.no/",
+                "email": "tore.eikeland@teca.no",
+                "name": "Teca, avd Kvinnherad"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.75766996994,
+                    59.86218002682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "email": "firmapost@nordvest-elektro.no",
+                "brand": "Elfag",
+                "ref:elfag": "3108",
+                "name": "Nordvest Elektro",
+                "phone": "+47 71 64 79 60",
+                "craft": "electrician"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.70910186994,
+                    63.40381550577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "craft": "electrician",
+                "email": "90193299@mobilpost.com",
+                "name": "Jens B Lunde Elektro",
+                "phone": "+47 901 93 299",
+                "ref:elfag": "129"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.71037066994,
+                    58.82010792056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "craft": "electrician",
+                "name": "Rennebu Elektro",
+                "ref:elfag": "203",
+                "email": "post@rennebuelektro.no",
+                "phone": "+47 99 64 28 97;+47 48 11 55 15"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.01423086994,
+                    62.83326327253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "name": "Holth Elektro",
+                "website": "http://holthelektro.no/",
+                "phone": "+47 21 44 97 70",
+                "ref:elfag": "5705",
+                "craft": "electrician",
+                "email": "post@holthelektro.no"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.89053706994,
+                    59.96529609758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "ref:elfag": "99",
+                "phone": "+47 63 88 77 20",
+                "craft": "electrician",
+                "email": "knut.burhol@fetsundelektro.no",
+                "name": "Fetsund Elektro"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.18881346994,
+                    59.93307260672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "craft": "electrician",
+                "email": "post@aelektriker.no",
+                "phone": "+47 742 700 74",
+                "ref:elfag": "4033",
+                "name": "A-elektriker"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.48871476994,
+                    64.46964259202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "phone": "+47 57872900",
+                "craft": "electrician",
+                "email": "post@ovreberg.no",
+                "name": "Øvreberg Installasjonsforretning",
+                "ref:elfag": "194"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.72259506994,
+                    61.90338264249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "craft": "electrician",
+                "email": "firmapost@elektor.no",
+                "website": "https://elektor.no/",
+                "phone": "+47 62 58 21 00",
+                "ref:elfag": "6289",
+                "name": "Elektor Installasjon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.19728896994,
+                    60.72158508221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "email": "post@jensdahl.no",
+                "website": "http://www.jensdahl.no",
+                "craft": "electrician",
+                "ref:elfag": "135",
+                "phone": "+47 62814483",
+                "name": "Jens Dahl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.97411816994,
+                    60.20259663018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "email": "firmapost@vesas.no",
+                "craft": "electrician",
+                "name": "Vestby Elektro-service avd. Østfold",
+                "phone": "+47 64983040",
+                "ref:elfag": "192"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.68250896994,
+                    59.41607735295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "craft": "electrician",
+                "phone": "+47 35 54 16 25",
+                "name": "Elektro Team - Skien",
+                "email": "post@elektroteam.net",
+                "ref:elfag": "4478",
+                "website": "https://elektroteam.net/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.60624356994,
+                    59.21868180858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "email": "egil@holmedalelektriske.no",
+                "phone": "+47 57734100",
+                "craft": "electrician",
+                "ref:elfag": "119",
+                "name": "Holmedal Elektriske"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.18684982226,
+                    61.35803284340
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "ref:elfag": "154",
+                "craft": "electrician",
+                "email": "roger.stormo@meloyelektro.no",
+                "name": "Meløy Elektro",
+                "phone": "+47 757 20 200",
+                "website": "https://www.elektro.no/vare-selskap/elektro-meloy.html"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.70836836994,
+                    66.86774477603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "phone": "+47 45 49 19 11",
+                "craft": "electrician",
+                "name": "Hegna Elektro",
+                "ref:elfag": "6315"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.81527916994,
+                    59.90667911420
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "email": "post@hafs-elektro.no",
+                "craft": "electrician",
+                "website": "http://hafs-elektro.no/",
+                "phone": "+47 57 78 89 00",
+                "ref:elfag": "4126",
+                "name": "HAFS Elektro & Rør, avd Hyllestad"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.39085736994,
+                    61.17161205330
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "craft": "electrician",
+                "name": "Teca, avd Bømlo",
+                "email": "roger.kallevag@teca.no",
+                "website": "http://www.teca.no/",
+                "phone": "+47 990 22 889",
+                "ref:elfag": "3259"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.17878216994,
+                    59.79449074599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "ref:elfag": "142",
+                "craft": "electrician",
+                "email": "post@kolsen.as",
+                "name": "Kolbjørn Olsen",
+                "phone": "+47 77830300"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.59848646260,
+                    69.09573102365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "email": "andreas.kahn@kahnelektro.no",
+                "brand": "Elfag",
+                "ref:elfag": "4416",
+                "craft": "electrician",
+                "name": "Kahn Elektro",
                 "phone": "+47 971 94 338"
             },
             "geometry": {
@@ -1731,58 +1585,37 @@
             "type": "Feature",
             "properties": {
                 "brand": "Elfag",
-                "branch": "Asker Elektriske",
-                "phone": "+47 66987030",
+                "email": "post@htlelektro.no",
+                "name": "HTL Electric Group",
                 "craft": "electrician",
-                "email": "firmapost@askerel.no",
-                "name": "Elfag Asker Elektriske",
-                "ref:elfag": "72"
+                "phone": "+47 712 66 600;+47 715 17 000",
+                "ref:elfag": "3598",
+                "website": "https://www.htlelektro.no/"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.41464606994,
-                    59.83029863585
+                    7.15027696994,
+                    62.85387616652
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "phone": "+47 913 49 199",
+                "website": "https://fkel.no/",
                 "brand": "Elfag",
-                "website": "https://krumsvikelektro.no/",
                 "craft": "electrician",
-                "ref:elfag": "4266",
-                "name": "Elfag Krumsvik Elektro",
-                "branch": "Krumsvik Elektro",
-                "email": "post@krumsvikelektro.no"
+                "email": "fkel@fosenkraft.no",
+                "phone": "+47 72 52 04 20",
+                "name": "Fosenkraft Elektro, avd. Brekstad",
+                "ref:elfag": "5754"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.27322312247,
-                    59.44456276620
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "website": "https://shelektro.no/",
-                "email": "post@shelektro.no",
-                "brand": "Elfag",
-                "craft": "electrician",
-                "ref:elfag": "5572",
-                "phone": "+47 948 88 182",
-                "name": "Elfag SH Elektro",
-                "branch": "SH Elektro"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.24771216994,
-                    58.20168179337
+                    9.66221566994,
+                    63.69064202162
                 ]
             }
         },
@@ -1790,16 +1623,18 @@
             "type": "Feature",
             "properties": {
                 "brand": "Elfag",
+                "email": "firmapost@baerumelektriske.no",
+                "name": "Bærum Elektriske",
+                "website": "http://baerumelektriske.no",
                 "craft": "electrician",
-                "ref:elfag": "6026",
-                "name": "Elfag Lofoten Elektro, avd. Ramberg",
-                "branch": "Lofoten Elektro, avd. Ramberg"
+                "phone": "+47 67 58 15 55",
+                "ref:elfag": "2477"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.22844736994,
-                    68.08943580623
+                    10.56422016994,
+                    59.90813541379
                 ]
             }
         },
@@ -1807,8 +1642,304 @@
             "type": "Feature",
             "properties": {
                 "brand": "Elfag",
-                "branch": "Hjartdal Elektro",
-                "name": "Elfag Hjartdal Elektro",
+                "website": "https://www.holen-installasjon.no/",
+                "ref:elfag": "6392",
+                "craft": "electrician",
+                "name": "Holen Installasjon",
+                "email": "post@holen-installasjon.no",
+                "phone": "+47 57 67 75 00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.11855276994,
+                    61.23323903560
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "craft": "electrician",
+                "phone": "+47 90914240",
+                "website": "http://www.hemnesel.no/",
+                "email": "jarle@hemnesel.no",
+                "ref:elfag": "117",
+                "name": "Hemnes El-installasjon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.46497746994,
+                    59.72177116658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "craft": "electrician",
+                "name": "Lofoten Elektro",
+                "website": "https://www.lofotenelektro.no/",
+                "ref:elfag": "206",
+                "email": "post@lofotenelektro.no",
+                "phone": "+47 76066630"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.53419546994,
+                    68.23197846287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "craft": "electrician",
+                "website": "http://www.ehi.no/",
+                "phone": "+47 32 07 99 50",
+                "name": "Elektroservice Hallingdal Inst. Gol",
+                "ref:elfag": "91",
+                "email": "baard@ehi.no"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.93172826994,
+                    60.69624028946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "craft": "electrician",
+                "website": "http://www.ehi.no/",
+                "email": "kjell@ehi.no",
+                "name": "Elektroservice Hallingdal Inst. Ål",
+                "ref:elfag": "92",
+                "phone": "+47 32 08 61 70"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.59680716994,
+                    60.64753560337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "craft": "electrician",
+                "phone": "+47 22803750",
+                "ref:elfag": "114",
+                "website": "https://gulbrandsen-olimb.no/",
+                "name": "Gulbrandsen & Olimb",
+                "email": "jan@g-o.no"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.84693336994,
+                    59.91540971173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "craft": "electrician",
+                "email": "post@proton-elektro.no",
+                "ref:elfag": "6226",
+                "website": "https://www.proton-elektro.no/",
+                "name": "Proton Elektro",
+                "phone": "+47 468 27 500"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.67184166994,
+                    62.32424882059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "name": "Bjørbekk Elektro",
+                "ref:elfag": "78",
+                "craft": "electrician",
+                "phone": "+47 99 03 98 02",
+                "email": "post@bjorbekkelektro.no"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.60933086994,
+                    59.19729351461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "email": "jon.erik@slevikelektriske.no",
+                "craft": "electrician",
+                "ref:elfag": "177",
+                "website": "https://slevikelektriske.no/",
+                "name": "Slevik Elektriske"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.91071586994,
+                    59.22930530559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "email": "firmapost@vesas.no",
+                "craft": "electrician",
+                "name": "Vestby Elektro-Service",
+                "phone": "+47 64983040",
+                "ref:elfag": "191",
+                "website": "http://www.vesas.no"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.74309146994,
+                    59.60766859885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "ref:elfag": "6386",
+                "craft": "electrician",
+                "name": "Elektro Verden",
+                "phone": "+47 468 87 444",
+                "email": "post@elektroverden.no"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.80528586994,
+                    59.89751141680
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "phone": "+47 55 57 79 50",
+                "brand": "Elfag",
+                "ref:elfag": "198",
+                "craft": "electrician",
+                "website": "http://www.star-elektro.no/",
+                "name": "Star Elektro",
+                "email": "firma@star-elektro.no"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.35987416994,
+                    60.36041068527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "phone": "+47 55316050",
+                "brand": "Elfag",
+                "name": "Urheims Elektrokompani",
+                "craft": "electrician",
+                "email": "jt.urheim@urheim.no",
+                "ref:elfag": "190"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.31994966994,
+                    60.39309787596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "email": "post@jevnakerelektriske.no",
+                "craft": "electrician",
+                "name": "Jevnaker Elektriske Forretning",
+                "ref:elfag": "136",
+                "phone": "+47 61 31 11 99"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.38381066994,
+                    60.24196491898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "craft": "electrician",
+                "name": "Jatec",
+                "email": "haraldseid@jatec.no",
+                "ref:elfag": "128",
+                "phone": "+47 52703030"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.27495596994,
+                    59.40704495550
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "craft": "electrician",
+                "ref:elfag": "6385",
+                "name": "Flyt Elektro",
+                "email": "bestillinger@flytelektro.no",
+                "phone": "+47 905 04 076"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.78702806994,
+                    59.91172661277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "brand": "Elfag",
+                "name": "Hjartdal Elektro",
                 "phone": "+47 35023100",
                 "craft": "electrician",
                 "ref:elfag": "118",
@@ -1825,255 +1956,18 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:elfag": "75",
                 "brand": "Elfag",
+                "phone": "+47 47 47 81 81",
+                "ref:elfag": "76",
                 "craft": "electrician",
-                "website": "http://bmi.no/",
-                "branch": "B Mikkelsen",
-                "email": "firmapost@bmi.no",
-                "phone": "+47 53650000",
-                "name": "Elfag B Mikkelsen"
+                "name": "Ballangen Energi",
+                "email": "post@ballangen-energi.no"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    6.54787159790,
-                    60.06713189351
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "email": "post@hafs-elektro.no",
-                "craft": "electrician",
-                "website": "http://hafs-elektro.no/",
-                "phone": "+47 57 78 89 00",
-                "ref:elfag": "4126",
-                "name": "Elfag HAFS Elektro & Rør, avd Hyllestad",
-                "branch": "HAFS Elektro & Rør, avd Hyllestad"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.39085736994,
-                    61.17161205330
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "branch": "Jevnaker Elektriske Forretning",
-                "email": "post@jevnakerelektriske.no",
-                "craft": "electrician",
-                "ref:elfag": "136",
-                "name": "Elfag Jevnaker Elektriske Forretning",
-                "phone": "+47 61 31 11 99"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.38381066994,
-                    60.24196491898
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "ref:elfag": "143",
-                "branch": "Kragerø Elektriske",
-                "name": "Elfag Kragerø Elektriske",
-                "craft": "electrician",
-                "website": "http://www.krageroelektriske.no",
-                "phone": "+47 35986560",
-                "email": "grunde@krageroelektriske.no"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.41171336994,
-                    58.87043710645
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "branch": "Holmedal Elektriske",
-                "phone": "+47 57734100",
-                "email": "egil@holmedalelektriske.no",
-                "craft": "electrician",
-                "ref:elfag": "119",
-                "name": "Elfag Holmedal Elektriske"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.18684982226,
-                    61.35803284340
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:elfag": "6383",
-                "brand": "Elfag",
-                "name": "Elfag DE Elektro",
-                "email": "post@de-elektro.no / prosjekt@de-elektro.no",
-                "craft": "electrician",
-                "website": "https://de-elektro.no/",
-                "branch": "DE Elektro",
-                "phone": "+47 94 84 13 00"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.80688297970,
-                    59.89031302013
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:elfag": "97",
-                "brand": "Elfag",
-                "name": "Elfag Håvardstun Elektriske",
-                "craft": "electrician",
-                "branch": "Håvardstun Elektriske",
-                "email": "atle@havardstun.no",
-                "phone": "+47 55114750"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.25662616994,
-                    60.28627170637
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Elfag Algrøy Elektro",
-                "brand": "Elfag",
-                "ref:elfag": "65",
-                "phone": "+47 56336240",
-                "craft": "electrician",
-                "email": "arild@algroyelektro.no",
-                "branch": "Algrøy Elektro"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.08413827976,
-                    60.29787646173
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "branch": "TT Elektro",
-                "brand": "Elfag",
-                "ref:elfag": "189",
-                "phone": "+47 67 87 69 00",
-                "craft": "electrician",
-                "name": "Elfag TT Elektro",
-                "website": "https://www.ttelektro.no/",
-                "email": "post@ttelektro.no"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.49890866994,
-                    59.94875860227
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "ref:elfag": "6386",
-                "craft": "electrician",
-                "branch": "Elektro Verden",
-                "phone": "+47 468 87 444",
-                "name": "Elfag Elektro Verden",
-                "email": "post@elektroverden.no"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.80528586994,
-                    59.89751141680
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "phone": "+47 57667900",
-                "craft": "electrician",
-                "ref:elfag": "59",
-                "email": "post@2tal-elektro.no",
-                "website": "http://2tal-elektro.no/",
-                "branch": "2tal Elektro",
-                "name": "Elfag 2tal Elektro"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.50154986994,
-                    61.10070227365
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "branch": "Jens Dahl",
-                "email": "post@jensdahl.no",
-                "website": "http://www.jensdahl.no",
-                "craft": "electrician",
-                "ref:elfag": "135",
-                "phone": "+47 62814483",
-                "name": "Elfag Jens Dahl"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.97411816994,
-                    60.20259663018
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "brand": "Elfag",
-                "craft": "electrician",
-                "email": "post@proton-elektro.no",
-                "ref:elfag": "6226",
-                "website": "https://www.proton-elektro.no/",
-                "branch": "Proton Elektro",
-                "name": "Elfag Proton Elektro",
-                "phone": "+47 468 27 500"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.67184166994,
-                    62.32424882059
+                    16.78893266994,
+                    68.33039073291
                 ]
             }
         }
